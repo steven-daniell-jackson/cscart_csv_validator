@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CSV Import Script - Steven Jacskson</title>
+	<title>CS Cart CSV Validator - Steven Jacskson</title>
 
 
 <!-- Stylesheets -->
