@@ -19,8 +19,21 @@
 
 <div class="container">
 
-<header id="header" class="col-md-12 text-center">
-	<h1>CS Cart CSV Product Field Verification</h1>
+
+<header id="header" class="col-md-12">
+
+
+<div class="row">
+
+<?php // Optional Company Branding for client visual?>
+<div class="col-md-6"><img src="img/CompanyBranding.png" class="img-responsive"></img></div>
+<div class="col-md-6"><h1>CSV Field Verification</h1></div>
+	
+
+</div>
+
+
+
 </header><!-- /header -->
 
 
